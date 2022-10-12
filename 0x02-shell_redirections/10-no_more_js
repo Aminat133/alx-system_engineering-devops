@@ -1,2 +1,2 @@
 #!/bin/bash
-rm < find . *.js
+ls -t | tail -10
